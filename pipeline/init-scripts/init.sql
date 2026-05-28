@@ -1,0 +1,2 @@
+CREATE DATABASE ny_taxi_1;
+CREATE DATABASE ny_taxi_2;
